@@ -1,4 +1,4 @@
-News_AI_Agent: Revolutionizing News Research and Writing
+## News_AI_Agent: Revolutionizing News Research and Writing
 
 Overview:
 News_AI_Agent is an innovative project designed to enhance the efficiency and accuracy of news research and writing. Utilizing the advanced capabilities of CrewAI and Google Gemini AI as the Large Language Models (LLMs), this project aims to streamline the process of gathering information, analyzing data, and generating comprehensive news articles.
