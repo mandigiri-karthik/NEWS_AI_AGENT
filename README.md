@@ -32,3 +32,5 @@ Google Gemini AI: Powers the LLM functionalities, ensuring high accuracy and flu
 APIs: Utilized for real-time data retrieval and content verification.
 Impact:
 News_AI_Agent is poised to transform the news industry by reducing the time and effort required for news production while maintaining high standards of accuracy and reliability. This project is a testament to the potential of AI in enhancing journalistic practices and delivering timely, relevant news to the audience.
+
+Contact For any questions or inquiries, please contact @ karthikmandigiri@gmail.com
